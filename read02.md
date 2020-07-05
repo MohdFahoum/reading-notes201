@@ -79,4 +79,43 @@ They represents blocks of content.
   
   ![selectorimg](https://i1.wp.com/learn-automation.com/wp-content/uploads/2015/12/Css-Selector-Table.png?resize=1024%2C395)
   
+  *Why use External Style Sheets?
   
+  *Advantages of External CSS:
+  Since the CSS code is in a separate document, your HTML files will have a cleaner structure and are smaller in size.
+  You can use the same .css file for multiple pages.
+
+  *Disadvantages of External CSS:
+  Your pages may not be rendered correctly until the external CSS is loaded.
+  Uploading or linking to multiple CSS files can increase your site’s download time.
+
+
+
+### Java script
+
+A script is a series of instructions that a computer can follow one-by-one.
+Each individual instruction or step is known as a statement.
+
+*WHAT IS A VARIABLE?
+A script will have to temporarily store the bits of information it
+needs to do its job. It can store this data in variables.
+
+When you write JavaScript, you have to tell the interpreter every individual step that you want it toperform.
+This sometimes involves more detail than you might expect.
+
+![var](https://tutorial.techaltum.com/images/js-variables.jpg)
+
+JavaScript distinguishes between numbers,strings, and true or false values known as Booleans.
+
+* NUMERIC DATA TYPE The numeric data type handles numbers.
+0.75
+
+
+* STRING DATA TYPE The strings data type consists of letters and other characters.
+'H.1 ' Ivy! 
+
+* BOOLEAN DATA TYPE
+Boolean data types can have one of two va lues: true or false.
+**true
+
+
