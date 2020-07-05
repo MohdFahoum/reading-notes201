@@ -18,9 +18,26 @@ The visible part of the HTML document is between < body > and < /body >.
 
 ![html](https://steemitimages.com/DQmW12NcMzyvvHA7qK9Jo2FpzWsnCZrZq36bHxau68asAEq/example.png)
 
+*HTML Paragraphs
+If the content is a paragraph, then you must label it using HTML paragraph tag. It is defined with the < p > tag
 
+*HTML Links
+HTML links are those clickable and moving you to another web page or content. It is defined with the < a > tag
 
+#### tags
 
+* Tags are often referred to as elements.
+
+* Tags usually come in pairs. The opening tag denotes
+the start of a piece of content; the closing tag denotes
+the end.
+
+* Opening tags can carry attributes, which tell us more
+about the content of that element.
+
+* To learn HTML you need to know what tags are
+available for you to use, what they do, and where they
+can go.
 
 
 
