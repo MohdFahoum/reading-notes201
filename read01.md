@@ -1,3 +1,19 @@
+### HTML
+
+Structure of HTML 
+
+![link](https://notesformsc.org/wp-content/uploads/2018/01/HTML-Structure.png)
+
+
+
+
+
+
+
+
+
+
+
 ### Java Script
 
 *what is script ?
