@@ -135,6 +135,6 @@ They represents blocks of content.
   
   #### css selectors
   
-  ![selectorimg](https://i1.wp.com/learn-automation.com/wp-content/uploads/2015/12/Css-Selector-Table.png?resize=1209%2C466)
+  ![selectorimg](https://i1.wp.com/learn-automation.com/wp-content/uploads/2015/12/Css-Selector-Table.png?resize=1024%2C395)
   
   
