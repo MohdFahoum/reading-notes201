@@ -27,7 +27,7 @@ these instructions one by one , below is an example :
 5. check the oil level 
 
 
-
+![flowchart](https://i.stack.imgur.com/7Uqi7.png)
 
 
 Daily assignments: 
