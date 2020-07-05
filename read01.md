@@ -4,6 +4,19 @@ Structure of HTML
 
 ![link](https://notesformsc.org/wp-content/uploads/2018/01/HTML-Structure.png)
 
+*Just like a regular document, an HTML document has a structure. Unlike a regular document, a lot of its structure is mandated by the HTML Specification, as I discussed in the Who Controls HTML article.
+
+####HTML Documents
+
+All HTML documents must start with a document type declaration. 
+
+HTML versions have its own declaration type and since we're going to use HTML 5, the declaration should be:
+< !DOCTYPE html >.
+
+After the declaration, HTML document itself begins with < html > and ends with < /html >.
+The visible part of the HTML document is between < body > and < /body >.
+
+![html](https://steemitimages.com/DQmW12NcMzyvvHA7qK9Jo2FpzWsnCZrZq36bHxau68asAEq/example.png)
 
 
 
