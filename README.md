@@ -2,7 +2,33 @@
 
 ### Code 201 Reading Notes
 
-*My new website is going to talk about the compartion between smoking and vaping 
+*what is script ?
+*script is a series of instructions that a computer can follow to achieve a goal.
+and these instrucrtins the computer will follow step by step
+
+to write a script you have to follow some of tips 
+
+* DEFINE THE GOAL
+* DESIGN THE SCRIPT
+* CODE EACH STEP
+
+flow chart will be the hight level view for your script
+designing script should contain steps , as the computer will follow 
+these instructions one by one , below is an example :
+
+1. check the car oil status
+
+2. get the oil catch machine
+
+3. put the machine on the car and press start
+
+4. but the new oil 
+
+5. check the oil level 
+
+
+
+
 
 Daily assignments: 
 1- 
