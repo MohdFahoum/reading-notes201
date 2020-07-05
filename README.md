@@ -2,6 +2,13 @@
 
 ### Code 201 Reading Notes
 
+
+
+ read1 |[link1]()
+ read2 |[link1]()
+ read3 |[link1]()
+ read4 |[link1]()
+
 *what is script ?
 *script is a series of instructions that a computer can follow to achieve a goal.
 and these instrucrtins the computer will follow step by step
