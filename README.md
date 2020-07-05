@@ -41,9 +41,13 @@ In computer programming, each physical thing in
 the world can be represented as an object.
 
 Each object can have its own:
+
 • Properties
+
 • Events
+
 • Methods
+
 Together they create a working model of that object.
 
 
