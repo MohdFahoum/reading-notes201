@@ -119,3 +119,17 @@ Boolean data types can have one of two va lues: true or false.
 **true
 
 
+#### CHANGING THE VALUE OF A VARIABLE
+
+Once you have assigned a value
+to a variable, you can then
+change what is stored in the
+variable later in the same script.
+Once the variable has been
+created, you do not need to
+use the var keyword to assign
+it a new value. You just use the
+variable name, the equals sign
+(also known as the assignment
+operator), and the new va lue for
+that attribute.
