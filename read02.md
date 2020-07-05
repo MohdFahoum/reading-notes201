@@ -56,60 +56,60 @@ They represents blocks of content.
 
 *There are a number of elements which are block-level by default:
 
-<address> — Contact information.
+<address> Contact information.
   
-<article> — Article content.
+<article> Article content.
   
-<aside> — Aside content.
+<aside> Aside content.
   
-<audio> — Audio player.
+<audio> Audio player.
   
-<blockquote> — Long (“block”) quotation.
+<blockquote> Long (“block”) quotation.
   
-<canvas> — Drawing canvas.
+<canvas> Drawing canvas.
   
-<dd> — Definition description.
+<dd> Definition description.
   
-<div> — Document division.
+<div> Document division.
   
-<dl> — Definition list.
+<dl> Definition list.
   
-<fieldset> — Field set label.
+<fieldset> Field set label.
   
-<figcaption> — Figure caption.
+<figcaption> Figure caption.
   
-<figure> — Media (usually an image) with a caption.
+<figure> Media (usually an image) with a caption.
   
-<footer> — Section or page footer.
+<footer> Section or page footer.
   
-<form> — Input form.
+<form> Input form.
   
-<h1>, <h2>, <h3>, <h4>, <h5>, <h6> — Headlines.
+<h1>, <h2>, <h3>, <h4>, <h5>, <h6> Headlines.
   
-<header> — Section or page header.
+<header> Section or page header.
   
-<hr> — Horizontal rule (dividing line).
+<hr> Horizontal rule (dividing line).
 
-<main> — Contains the central content unique to this document.
+<main> Contains the central content unique to this document.
   
-<nav> — Contains navigation links.
+<nav> Contains navigation links.
   
-<noscript> — Content to use if scripting is not supported or turned off.
+<noscript> Content to use if scripting is not supported or turned off.
   
-<ol> — Ordered list.
+<ol> Ordered list.
   
-<output> — Form output.
+<output> Form output.
   
-<p> — Paragraph.
+<p> Paragraph.
   
-<pre> — Preformatted text.
+<pre> Preformatted text.
 
-<section> — Section of a web page.
+<section> Section of a web page.
   
-<table> — Table.
+<table> Table.
   
-<tfoot> — Table footer.
+<tfoot> Table footer.
   
-<ul> — Unordered list.
+<ul> Unordered list.
   
-<video> — Video player.
+<video> Video player.
