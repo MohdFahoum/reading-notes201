@@ -54,68 +54,10 @@ Block-level elements are HTML elements which have width and height and (by defau
 They represents blocks of content. 
 (This is in contrast to inline elements, which represent spans of text and do not create new lines by default.)
 
-*There are a number of elements which are block-level by default:
 
-<address> Contact information.
-  
-<article> Article content.
-  
-<aside> Aside content.
-  
-<audio> Audio player.
-  
-<blockquote> Long quotation.
-  
-<canvas> Drawing canvas.
-  
-<dd> Definition description.
-  
-<div> Document division.
-  
-<dl> Definition list.
-  
-<fieldset> Field set label.
-  
-<figcaption> Figure caption.
-  
-<figure> Media (usually an image) with a caption.
-  
-<footer> Section or page footer.
-  
-<form> Input form.
-  
-<h1>, <h2>, <h3>, <h4>, <h5>, <h6> Headlines.
-  
-<header> Section or page header.
-  
-<hr> Horizontal rule (dividing line).
 
-<main Contains the central content unique to this document.
   
-<nav> Contains navigation links.
-  
-<noscript> Content to use if scripting is not supported or turned off.
-  
-<ol> Ordered list.
-  
-<output> Form output.
-  
-<p> Paragraph.
-  
-<pre> Preformatted text.
-
-<section> Section of a web page.
-  
-<table> Table.
-  
-<tfoot Table footer.
-  
-<ul> Unordered list.
-  
-<video> Video player.
-  
-  
-  
+ 
   ### CSS 
   
   Stands for "Cascading Style Sheet." Cascading style sheets are used to format the layout of Web pages.
