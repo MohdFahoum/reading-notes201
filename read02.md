@@ -64,7 +64,7 @@ They represents blocks of content.
   
 <audio> Audio player.
   
-<blockquote> Long (“block”) quotation.
+<blockquote> Long quotation.
   
 <canvas> Drawing canvas.
   
@@ -90,7 +90,7 @@ They represents blocks of content.
   
 <hr> Horizontal rule (dividing line).
 
-<main> Contains the central content unique to this document.
+<main Contains the central content unique to this document.
   
 <nav> Contains navigation links.
   
@@ -108,7 +108,7 @@ They represents blocks of content.
   
 <table> Table.
   
-<tfoot> Table footer.
+<tfoot Table footer.
   
 <ul> Unordered list.
   
