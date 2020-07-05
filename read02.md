@@ -113,3 +113,28 @@ They represents blocks of content.
 <ul> Unordered list.
   
 <video> Video player.
+  
+  
+  
+  ### CSS 
+  
+  Stands for "Cascading Style Sheet." Cascading style sheets are used to format the layout of Web pages.
+  They can be used to define text styles, table sizes, and other aspects of Web pages that previously could only be defined in a page's HTML.
+  
+  CSS helps Web developers create a uniform look across several pages of a Web site. 
+  Instead of defining the style of each table and each block of text within a page's HTML, 
+  commonly used styles need to be defined only once in a CSS document.
+  
+  there are 3 ways you can link the css to your html :
+  
+  * href
+  
+  * type
+  
+  * rel
+  
+  #### css selectors
+  
+  ![selectorimg](https://i1.wp.com/learn-automation.com/wp-content/uploads/2015/12/Css-Selector-Table.png?resize=1209%2C466)
+  
+  
