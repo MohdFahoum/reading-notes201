@@ -28,5 +28,8 @@ The box will extend in the inline direction to fill the space available in its c
 The width and height properties are respected.
 Padding, margin and border will cause other elements to be pushed away from the box
 
+![boxes](https://azahreba.gitbooks.io/html101/02_css/img/box-model.png)
+
+
 
 ### Decisions and Loops
