@@ -33,3 +33,43 @@ Padding, margin and border will cause other elements to be pushed away from the 
 
 
 ### Decisions and Loops
+
+here we have 3 diffirent types : 
+
+* if , else 
+
+If and else are used in JavaScript (and in many other programming languages) like in english.
+You are lucky that your native language is English
+One observation is that there is only one line of code after the if statement.
+If I want to include more instructions I need to include them into curly braces
+else goes at the end of the if and it handles any situation not already handled at that point.
+
+
+
+* switch 
+
+Let us assume we are checking something, mostly likely a variable name.
+Switch is another way to test but by jumping directly to the memory location of interests,
+without going over all possible tests.
+
+so what's this break? Well, this break stops any more tests being made. So, if the first check was true (name entered was mary), the instruction break tells the browser: “don't do any more checks”.
+
+So break is used to stop any more case comparisons. Sometimes break is appropriate, sometimes it isn't.
+
+
+
+
+* while 
+
+starting with the while loop. There is also a related structure called a do while loop.
+What is a loop? A loop simply repeats some code again and again,
+until a termination condition is encountered. A while loop is the simplest loop
+
+*Each time the loop content is executed we call it an iteration.
+
+The while condition (inside the parenthesis) is some JavaScript code, perhaps or maybe a variable. 
+if the condition is evaluated to true then the code inside the braces will be executed.
+When this code is finished, then it will come back up the top and it will check again,
+is the condtition still true? If it is, the code will be executed again.
+We have a so called loop pattern. Remember that exclamation mark,
+it means the opposite, right? It's the Not operator.
