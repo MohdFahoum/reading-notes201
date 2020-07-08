@@ -26,7 +26,40 @@ We are now going to see that we can write the links in a somewhat different way 
 ![linksimg](https://sdz-upload.s3.amazonaws.com/prod/upload/relative_links.png)
 
 
+### layouts 
+
+HTML layouts provide a way to arrange web pages in well-mannered, well-structured,
+and in responsive form or we can say that HTML layout specifies a way in which the web pages can be arranged.
+Web-page layout works with arrangement of visual elements of an HTML document.
+
+Web page layout is the most important part to keep in mind while creating a website so that our website can appear professional with the great look.
+You can also use CSS and JAVASCRIPT based frameworks for creating layouts for responsive and dynamic website designing.
+
+![linkimg2](https://static.javatpoint.com/htmlpages/images/html-layouts.png)
+
+#### Absolute v. relative positioning
+
+As far as I can tell, there are two ways to do this. Both make use of the basic “absolute” and “relative” positioning attributes.
+Where a lot of people get this wrong is that the CSS Box Model defines a position:absolute block as absolute relative to its containing block,
+and not relative to the page or window.
 
 
 
+*example :
+
+/*  #top-section {
+  position:relative;
+  left:0;
+  top:0;
+  }
+  #mid-section {
+  position:relative;
+  left:0;
+  top:0;
+  }
+  #bottom-section {
+  position:relative;
+  left:0;
+  top:0;
+  }*/
 
