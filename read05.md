@@ -41,5 +41,9 @@ These images should not have any alternative text
 ![linkimg](https://www.miltonmarketing.com/wp-content/uploads/2018/03/mmhtmlimgtag424243image-tag-example.jpg)
 
 **Note: The <img> element is what is known as an empty tag; that is, it does not require an end tag (like </img>).
-**In HTML5, it need not even be closed with an internal slash (like <img src="balconyview.jpg"/>), 
+
+**In HTML5, it need not even be closed with an internal slash, 
+
 **although many web page authors do so as a matter of consistency.
+
+
