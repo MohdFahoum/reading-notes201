@@ -14,7 +14,7 @@
  
   read04 |[link5](/read05.md)
   
-  read04 |[link](read06)
+  read04 |[link7](/read07.md)
   
   read04 |[link](read07)
   
