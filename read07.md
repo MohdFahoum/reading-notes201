@@ -2,15 +2,15 @@
 
 The HTML tables allow web authors to arrange data like text, images, links, other tables, etc. into rows and columns of cells.
 
-The HTML tables are created using the <table> tag in which the <tr> tag is used to create table rows and <td> tag is used to create data cells.
-The elements under <td> are regular and left aligned by default
+The HTML tables are created using the "<table>" tag in which the "<tr>" tag is used to create table rows and "<td>" tag is used to create data cells.
+The elements under "<td>" are regular and left aligned by default
 
 ####Table Heading
 
-Table heading can be defined using <th> tag.
-This tag will be put to replace <td> tag, which is used to represent actual data cell.
-Normally you will put your top row as table heading as shown below, otherwise you can use <th> element in any row.
-Headings, which are defined in <th> tag are centered and bold by default.
+Table heading can be defined using "<th>" tag.
+This tag will be put to replace "<td>" tag, which is used to represent actual data cell.
+Normally you will put your top row as table heading as shown below, otherwise you can use "<th>" element in any row.
+Headings, which are defined in "<th>" tag are centered and bold by default.
 
 *Cellpadding and Cellspacing Attributes
 There are two attributes called cellpadding and cellspacing which you will use to adjust the white space in your table cells.
