@@ -16,9 +16,9 @@
   
   read04 |[link7](/read07.md)
   
-  read04 |[link](read07)
+  read04 |[link9](/read09.md)
   
-  read04 |[link](read08)
+  read04 |[link9](read08)
   
   read04 |[link](read09)
   
